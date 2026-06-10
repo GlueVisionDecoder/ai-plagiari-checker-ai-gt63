@@ -1,4 +1,4 @@
-# 
+# Inteligente AI Plagiarism Checker modelos. Com visualização de dados e modelos de aprendizado profundo — otimizado para máximo desempenho.
 
 
 
